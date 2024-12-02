@@ -1,1 +1,4 @@
-# AIResearchProjectF2024
+# AIResearchProjectF2024 - Sasidurka Venkatesan
+This research project focuses on predicting the quality of wine (white wine). Utilizing the UCI Wine Quality dataset, which includes properties of wines such as alcohol content, acidity, and sugar levels, the objective is to classify wines into three categories like Low quality, Medium quality, and High quality of white wine. The project employs PyCaret to streamline the workflow of model selection, training, and evaluation.
+
+Feature engineering was applied to preprocess the data, and the best-performing model was identified using PyCaret's compare_models() function. The selected model achieved an high accuracy and a high AUC score, as shown through evaluation metrics like confusion matrices and feature importance analysis. This project highlights the uses of automated ML tools in solving real-world classification problems and sets the foundation for future exploration of advanced techniques, for example deep learning, for further performance enhancement.
